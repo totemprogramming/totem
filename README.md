@@ -10,9 +10,13 @@ totem is a minimal, high-level language designed to aid the teaching of object-o
 The totem source code is organized as follows:
 
     examples/      example totem programs
+    notes/         notes on development of totem
+    
 
 ## License
 totem is released under the [MIT License](MITL).
 
-## Commit Guidelines
-Commits should be a short (50 characters or less) summary of changes. Don't end the line with a full stop. Use the imperative ("Add" instead of "Added", "Change" instead of "Changed").
+## File extension
+The file extension for all totem files is .tm
+
+
