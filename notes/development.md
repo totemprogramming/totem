@@ -1,3 +1,10 @@
+## General plan
+* Decide on clear syntax for the language, and articulate the rules carefully.
+* We will compile and run the totem source code from the command line.
+* We will piggyback on an open source C compiler to compile and run totem.
+* We therefore need to translate totem source into C source code.
+* We can split the task into three sections: writing the core library (in C), writing the rest of the standard library (in totem), and writing the basic compiler. 
+
 ## GitHub Commit Guidelines
 * Commits should be a short (50 characters or less) summary of changes. 
 * Don't end the line with a full stop. 
