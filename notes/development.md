@@ -25,3 +25,5 @@
 * Write some sample totem code to get idea of what we want the syntax to be like.
 * Spinning top logo.
 * Write a syntax.md file but later expand.
+* Perhaps add a nicer interface rather than just command line.
+* Decide which parts of the syntax to enforce (spacing, naming conventions etc).
