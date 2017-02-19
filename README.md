@@ -11,6 +11,7 @@ The totem source code is organized as follows:
 
     examples/      example totem programs
     notes/         notes on development of totem
+    language/      details on the totem language
     
 
 ## License
