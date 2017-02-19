@@ -35,3 +35,4 @@
 * Perhaps add a nicer interface rather than just command line.
 * Decide which parts of the syntax to enforce (spacing, naming conventions etc).
 * Repository is described by GitHub as GCC Machine Description - why?
+* One can only refer to a static variable or method by the class name - ban reference by object.
