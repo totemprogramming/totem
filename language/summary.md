@@ -43,4 +43,5 @@
 * public
 * packaged
 * this
+* inherits
 
