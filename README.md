@@ -13,3 +13,6 @@ The totem source code is organized as follows:
 
 ## License
 totem is released under the [MIT License](MITL).
+
+## Commit Guidelines
+Commits should be a short (50 characters or less) summary of changes. Don't end the line with a full stop. Use the imperative ("Add" instead of "Added", "Change" instead of "Changed").
