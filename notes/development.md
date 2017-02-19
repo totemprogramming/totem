@@ -34,3 +34,4 @@
 * Write a syntax.md file but later expand.
 * Perhaps add a nicer interface rather than just command line.
 * Decide which parts of the syntax to enforce (spacing, naming conventions etc).
+* Repository is described by GitHub as GCC Machine Description - why?
