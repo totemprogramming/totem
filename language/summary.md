@@ -11,7 +11,7 @@
 
 ## The standard totem library
 
-## Totem keywords
+## totem keywords
 
 * class
 * new
