@@ -11,4 +11,14 @@
 
 ## The standard totem library
 
+## Totem keywords
+
+* class
+* new
+* for
+* in
+* return
+* private
+* public
+* packaged
 
