@@ -24,3 +24,4 @@
 * Simplify access modifiers so that most likely modifiers are default.
 * Write some sample totem code to get idea of what we want the syntax to be like.
 * Spinning top logo.
+* Write a syntax.md file but later expand.
